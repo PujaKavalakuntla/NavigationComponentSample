@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NavigationComponentSample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SignUp</string>
+    <string name="create_a_new_account">Create new account</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_navigation_component">Welcome to Navigation Component</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up_screen">Signup Screen</string>
+    <string name="logout">Logout</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="email_req">Email is required</string>
+    <string name="password_req">Password is required</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="registration">Registration</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="name_required">Name required</string>
+    <string name="birds_name">Birds Name</string>
+    <string name="description">Description</string>
+    <string name="category">Category : </string>
+    <string name="movie_name">Movie name : </string>
+    <string name="click_here_to_see_movies_list">Click here to see movies list</string>
+</resources>
