@@ -1,4 +1,4 @@
-package com.example.navigationcomponentsample.viewPagerFragments
+package com.example.navigationcomponentsample.viewpagerfragments
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager

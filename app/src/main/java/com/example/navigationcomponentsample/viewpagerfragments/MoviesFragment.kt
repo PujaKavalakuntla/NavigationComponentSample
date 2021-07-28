@@ -1,9 +1,10 @@
-package com.example.navigationcomponentsample.viewPagerFragments
+package com.example.navigationcomponentsample.viewpagerfragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.appcompat.widget.Toolbar
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.navigationcomponentsample.*
@@ -41,8 +42,5 @@ class MoviesFragment : Fragment() {
         })
         viewModel.errorMessage.observe(requireActivity(), {})
         viewModel.getAllMovies()
-        val bundle = Bundle()
-        bundle.putInt("Position",adapter.itemCount)
-
     }
 }

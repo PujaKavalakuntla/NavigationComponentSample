@@ -1,4 +1,4 @@
-package com.example.navigationcomponentsample.viewPagerFragments
+package com.example.navigationcomponentsample.viewpagerfragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.navigationcomponentsample.R
 
-class WebSeriesFragment : Fragment() {
+class CartoonsFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -18,6 +18,6 @@ class WebSeriesFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_webseries, container, false)
+        return inflater.inflate(R.layout.fragment_cartoons, container, false)
     }
 }
